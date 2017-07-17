@@ -1,2 +1,2 @@
 # Moon-Hawk
-Space ship shooter with CoronaSDK. Collab with Repraved.
+Space ship shooter with CoronaSDK. Collab with [Repraved]. (https://github.com/Repraved)
